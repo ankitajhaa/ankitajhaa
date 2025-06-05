@@ -1,27 +1,36 @@
-# 👋 Hi, I'm Ankita Jha
+# 👋 Heyyaa, I'm Ankita 
 
-Welcome to my GitHub! I'm a fourth-year B.Tech Computer Science student, passionate about building smart, impactful, and user-centric digital experiences. I enjoy turning complex problems into clean, efficient, and scalable solutions—whether it’s through code, collaboration, or creativity.
+4th-year CSE student | Machine Learning enthusiast | Code, coffee, and a little chaos
 
----
-
-## 🔧 Tech Stack
-
-- **Languages:** C++, Python, JavaScript, HTML, CSS, SQL  
-- **Tools & Platforms:** Git, GitHub, VS Code, NetBeans, Oracle SQL Developer  
-- **ML & AI:** TensorFlow, Keras, scikit-learn, OpenCV
+I build things that *actually* work (after a few hundred print statements), and I love giving tech a purpose beyond just code. If it solves a real problem or looks cool doing it, count me in.
 
 ---
 
-## 🛠️ Projects
+## 🧠 Highlight Project
 
-### 🔤 Multilingual Handwriting Recognizer
-A document scanner that converts **handwritten English and Hindi** text into digital text using **OpenCV, TensorFlow, and Keras**. Supports live scanning and sentence recognition.
+### ✍️ Multilingual Handwriting Converter
+A document scanner that recognizes **both English and Hindi handwritten text**, converts it into digital form, and supports **live scanning**.
+
+Built using:
+- 🧠 **TensorFlow + Keras** for character recognition
+- 🎥 **OpenCV** for scanning and preprocessing
+- 📝 Custom pipelines to detect and digitize handwriting in real time
+
+It’s smart, efficient, and *bilingual*—just like me 😄
 
 ---
 
-## 📫 Let’s Connect
+## 🛠️ Tools & Tech I Use
+
+- **Languages:** Python, C++, JavaScript, SQL, HTML, CSS
+- **Tools & Platforms:** VS Code, Git, GitHub, NetBeans, Oracle SQL Developer
+- **ML & AI:** scikit-learn, TensorFlow, Keras, OpenCV
+
+---
+
+## 🤝 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/ankita-jha-00)  
-- 📧 ankita6mar@example.com
-  
-Thanks for stopping by! 🌟
+- ankita6mar@gmail.com
+
+Thanks for scrolling through my tech chaos. More cool stuff coming soon!
