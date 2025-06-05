@@ -7,9 +7,8 @@ Welcome to my GitHub! I'm a fourth-year B.Tech Computer Science student, passion
 ## 🔧 Tech Stack
 
 - **Languages:** C++, Python, JavaScript, HTML, CSS, SQL  
-- **Frameworks & Libraries:** React.js, Node.js, TailwindCSS, Bootstrap, Express.js  
-- **Tools & Platforms:** Git, GitHub, VS Code, NetBeans, Oracle SQL Developer, Firebase  
-- **ML & AI:** TensorFlow, Keras, scikit-learn, OpenCV, MediaPipe
+- **Tools & Platforms:** Git, GitHub, VS Code, NetBeans, Oracle SQL Developer  
+- **ML & AI:** TensorFlow, Keras, scikit-learn, OpenCV
 
 ---
 
