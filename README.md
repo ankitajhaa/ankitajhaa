@@ -1,47 +1,49 @@
-# 👋 Heyyaa, I'm Ankita 
-
-4th-year CSE student | Machine Learning enthusiast | Code, coffee, and a little chaos
-
-I build things that *actually* work (after a few hundred print statements), and I love giving tech a purpose beyond just code. If it solves a real problem or looks cool doing it, count me in.
-
-## 🛠️ Tech Stack
-
-**Languages:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&style=flat) 
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&style=flat)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&style=flat)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&style=flat)
-
-**Tools & Platforms:**  
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&style=flat)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&style=flat)
-![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?logo=apache-netbeans-ide&style=flat)
-![Oracle SQL Developer](https://img.shields.io/badge/-Oracle%20SQL-E60000?logo=oracle&style=flat)
-
-
-**ML & CV:**  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&style=flat)
-![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&style=flat)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&style=flat)
+<h1 align="center">Hi 👋, I'm Ankita Jha</h1>
+<h3 align="center">AI/ML Developer | Backend Explorer | Curious Builder</h3>
 
 ---
 
+### 🚀 About Me
+- 🔭 Currently working on **Handwritten Text Recognition (English + Hindi)**
+- 🌱 Learning **Deep Learning (PyTorch, GANs, NLP)**
+- 👯 Love collaborating on **AI/ML + full-stack projects**
+- 💡 Interested in **language learning apps, cultural tech, and CV**
+- ⚡ Fun fact: I break my code more than it breaks me  
+
+---
+
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitajhaa&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitajhaa&layout=compact&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitajhaa&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitajhaa&theme=tokyonight" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitajhaa&layout=compact&theme=tokyonight" alt="langs" />
 </p>
 
+---
+
+### 🌟 Featured Projects
+- [📝 Automatic Document Scanner using OpenCV](#)
+- [📚 Language Learning App (Culture + AI)](#)
+- [🤖 Handwritten English + Hindi Recognition](#)
 
 ---
 
-## 🤝 Let's Connect
+### 📫 Connect with Me
+<a href="https://www.linkedin.com/in/ankita-jha-aa4666258/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="mailto:ankita6mar@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-- 📫 Email: ankita6mar@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/ankita-jha-aa4666258)  
-- 🖤 [GitHub](https://github.com/ankitajhaa)  
-- 📸 [Instagram](https://instagram.com/ankitaa.jhaaa)  
+---
 
-Thanks for scrolling through my tech chaos. More cool stuff coming soon!
+✨ *“Code is like humor. When you have to explain it, it’s bad.”*  
