@@ -1,14 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankita Jha</h1>
-<h3 align="center">AI/ML Developer | Backend Explorer | Curious Builder</h3>
-
----
-
-### 🚀 About Me
-- 🔭 Currently working on **Handwritten Text Recognition (English + Hindi)**
-- 🌱 Learning **Deep Learning (PyTorch, GANs, NLP)**
-- 👯 Love collaborating on **AI/ML + full-stack projects**
-- 💡 Interested in **language learning apps, cultural tech, and CV**
-- ⚡ Fun fact: I break my code more than it breaks me  
+<h3 align="center">Backend Engineer | ML Explorer | Curious Builder</h3>
 
 ---
 
@@ -26,9 +17,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitajhaa&show_icons=true&theme=tokyonight" alt="stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitajhaa&theme=tokyonight" alt="streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitajhaa&layout=compact&theme=tokyonight" alt="langs" />
 </p>
 
 ---
