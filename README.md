@@ -22,13 +22,6 @@
 
 ---
 
-### 🌟 Featured Projects
-- [📝 Automatic Document Scanner using OpenCV](#)
-- [📚 Language Learning App (Culture + AI)](#)
-- [🤖 Handwritten English + Hindi Recognition](#)
-
----
-
 ### 📫 Connect with Me
 <a href="https://www.linkedin.com/in/ankita-jha-aa4666258/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
 <a href="mailto:ankita6mar@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
